@@ -1,2 +1,2 @@
 # bandname
-generates band name
+Generates Band name!!
